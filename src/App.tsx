@@ -9,7 +9,6 @@ function App() {
   return (
     <>
       <Cover/>
-      <Spacer/>
     </>
   )
 }
