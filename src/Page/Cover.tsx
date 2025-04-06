@@ -1,5 +1,6 @@
 import {useRef, ChangeEventHandler} from 'react';
 import styles from './Cover.module.css';
+
 export const Cover = () => {
     const fileInputRef = useRef <HTMLInputElement> (null);
 
